@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\jones\desktop\softw\dv1537\inl 3\a_3\a_3\main.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\jones\desktop\softw\dv1537\inl 3\a_3\a_3\main.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\jones\desktop\softw\dv1537\inl 3\a_3\a_3\main.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\jones\desktop\softw\dv1537\inl 3\a_3\a_3\main.cpp(195): warning C4018: '<': signed/unsigned mismatch
+  Polygon.cpp
+  Shape.cpp
+  Generating Code...
+  A_3.vcxproj -> C:\Users\jones\Desktop\SOFTW\DV1537\Inl 3\A_3\Debug\A_3.exe
